@@ -1,0 +1,11 @@
+faculty_id,first_name,last_name,salary,years_experience,email
+11,John,Smith,75000,10,john.smith@university.edu
+2,Linda,Johnson,82000,12,linda.johnson@university.edu
+3,Michael,Williams,68000,7,michael.williams@university.edu
+4,Susan,Brown,90000,15,susan.brown@university.edu
+5,David,Jones,72000,9,david.jones@university.edu
+6,Karen,Miller,78000,11,karen.miller@university.edu
+7,James,Davis,85000,13,james.davis@university.edu
+8,Patricia,Garcia,70000,8,patricia.garcia@university.edu
+9,Robert,Martinez,95000,18,robert.martinez@university.edu
+10,Barbara,Hernandez,67000,6,barbara.hernandez@university.edu

@@ -1,0 +1,11 @@
+course_id,course_name,credits,department_id,max_enrollment,semester
+11, Introduction to Programming, 4, 1, 60, Fall
+2, Calculus II, 3, 2, 50, Spring
+3, General Physics, 4, 3, 45, Fall
+4, English Literature, 3, 4, 40, Spring
+5, Biology Basics, 4, 5, 55, Fall
+6, Organic Chemistry, 4, 6, 35, Spring
+7, World History, 3, 7, 40, Fall
+8, Principles of Economics, 3, 8, 60, Spring
+9, Introduction to Psychology, 3, 9, 50, Fall
+10, Art Appreciation, 2, 10, 30, Spring
